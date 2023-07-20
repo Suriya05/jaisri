@@ -1,0 +1,80 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 06 Jun 2023 11:46:34 at https://htmldemo.net/jaisri/jaisri/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+jaisrijaisrijaisri
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://htmldemo.net/conebrick/conebrick/index.html -O1 "C:\My Web Sites\conebrick" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sejaisrinjaisri,jaisrijaisri
+jaisrijaisrijaisrijaisri
+	such as username/password authentication for websites mirrored jaisrirjaisrijaisrijaisri
+jaisrijaisrijaisrijaisri
+	do not share these files/folders if you want these information jaisri jaisrijaisrijaisri
+jaisrijaisrijaisrijaisri
+jaisrijaisrijaisrijaisri
+jaisrijaisrijaisrijaisri
+11:48:27	Error: 	"Not Found" (404) at link https://htmldemo.net/jaisri/jaisri/single-product.html (from https://htmldemo.net/conebrick/conebrijaisrihjaisri
+jaisrijaisrijaisrijaisri
+11:48:27	Error: 	"Not Found" (404) at link https://htmldemo.net/jaisri/jaisri/assets/css/fonts/revicons/revicons.eot?5510888 (from https://htmldemjaisriejaisriebrick/assets/css/revslider/settings.css)
+jaisrijaisrijaisrijaisri
+11:48:27	Error: 	"Not Found" (404) at link https://htmldemo.net/jaisri/jaisri/assets/css/fonts/revicons/revicons.woff?5510888 (fromjaisrihjaisriet/conebrick/conebrick/assets/css/revslider/settings.css)
+jaisrijaisrijaisrijaisri
+11:48:27	Error: 	"Not Found" (404) at link https://htmldemo.net/jaisri/jaisri/assets/css/fonts/revicons/revicons.ttf?5510888 (from htjaisriljaisriconebrick/conebrick/assets/css/revslider/settings.css)
+jaisrijaisrijaisrijaisri
+11:48:27	Error: 	"Not Found" (404) at link https://htmldemo.net/jaisri/jaisri/assets/css/fonts/revicons/revicons.svg?5510888 (from https://htmldemo.netjaisrikjaisrik/assets/css/revslider/settings.css)
+jaisrijaisrijaisrijaisri
+11:48:27	Error: 	"Not Found" (404) at link https://htmldemo.net/jaisri/jaisri/assets/css/revslider/openhand.cur (from https://htmldemo.net/conebrick/cojaisrisjaisrirevslider/settings.css)
+jaisrijaisrijaisrijaisri
+11:48:27	Error: 	"Not Found" (404) at link https://htmldemo.net/jaisri/jaisri/assets/css/revslider/closedhand.cur (from https://htmldemo.net/conebrick/jaisri/jaisris/revslider/settings.css)
+jaisrijaisrijaisrijaisri
+11:48:27	Error: 	"Not Found" (404) at link https://htmldemo.net/jaisri/jaisri/assets/css/assets/gridtile.png (from https://htmldemo.net/conejaisriejaisriets/css/revslider/settings.css)
+jaisrijaisrijaisrijaisri
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/jaisri/jaisri/assets/css/assets/gridtile_white.png (frjaisri/jaisri.net/conebrick/conebrick/assets/css/revslider/settings.css)
+jaisrijaisrijaisrijaisri
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/jaisri/jaisri/assets/css/assets/gridtile_3x3.png (from https://htmldemo.net/cjaisricjaisriassets/css/revslider/settings.css)
+jaisrijaisrijaisrijaisri
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/jaisri/jaisri/assets/css/assets/gridtile_3x3_white.png (frojaisri/jaisrinet/conebrick/conebrick/assets/css/revslider/settings.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/css/assets/coloredbg.png (from https://htmldemo.net/conebrick/conebrick/assets/css/revslider/settings.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/img/vimeo-play.png (from https://htmldemo.net/conebrick/conebrick/assets/css/plugins.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/img/video-play.png (from https://htmldemo.net/conebrick/conebrick/assets/css/plugins.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/img/youtube-play.png (from https://htmldemo.net/conebrick/conebrick/assets/css/plugins.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/img/loading.gif (from https://htmldemo.net/conebrick/conebrick/assets/css/plugins.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/css/images/ui-icons_444444_256x240.png (from https://htmldemo.net/conebrick/conebrick/assets/css/plugins.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/css/images/ui-icons_555555_256x240.png (from https://htmldemo.net/conebrick/conebrick/assets/css/plugins.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/css/images/ui-icons_ffffff_256x240.png (from https://htmldemo.net/conebrick/conebrick/assets/css/plugins.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/css/images/ui-icons_777620_256x240.png (from https://htmldemo.net/conebrick/conebrick/assets/css/plugins.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/css/images/ui-icons_cc0000_256x240.png (from https://htmldemo.net/conebrick/conebrick/assets/css/plugins.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/css/images/ui-icons_777777_256x240.png (from https://htmldemo.net/conebrick/conebrick/assets/css/plugins.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/images/icons/quote-left.png (from https://htmldemo.net/conebrick/conebrick/assets/css/style.css)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/blog.html (from https://htmldemo.net/conebrick/conebrick/index-5.html)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/project.html (from https://htmldemo.net/conebrick/conebrick/index-6.html)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/images/project/project-6.jpg (from https://htmldemo.net/conebrick/conebrick/single-portfolio.html)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/images/project/project-7.jpg (from https://htmldemo.net/conebrick/conebrick/single-portfolio.html)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/assets/images/project/project-8.jpg (from https://htmldemo.net/conebrick/conebrick/single-portfolio.html)
+
+11:48:28	Error: 	"Not Found" (404) at link https://htmldemo.net/conebrick/conebrick/blog-details.html (from https://htmldemo.net/conebrick/conebrick/blog-classic.html)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 54 seconds : 302 links scanned, 272 files written (15117743 bytes overall) [9647260 bytes received at 84625 bytes/sec], 7157360 bytes transferred using HTTP compression in 145 files, ratio 20%, 43.1 requests per connection
+
+(29 errors, 0 warnings, 0 messages)
+
