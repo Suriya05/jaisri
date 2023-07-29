@@ -90,14 +90,26 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 36px;
 }
+
+video{
+  width: 500px;
+  height: 400px;
+}
+
 @media only screen and (max-width: 767px) {
   h1 {
     font-size: 32px;
+  }
+  video{
+    width: 100%;
   }
 }
 @media only screen and (max-width: 575px) {
   h1 {
     font-size: 30px;
+  }
+  video{
+    width: 100%;
   }
 }
 
@@ -177,7 +189,7 @@ button, input[type=submit] {
 }
 
 ul {
-  list-style: outside none none;
+  /* list-style: outside none none; */
   margin: 0;
   padding: 0;
 }
@@ -994,20 +1006,24 @@ ul.page-breadcrumb li{
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .slick-slider .slick-dots {
     margin: 30px 0 0;
+    list-style: none;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .slick-slider .slick-dots {
     margin: 25px 0 0;
+    list-style: none;
   }
 }
 @media only screen and (max-width: 767px) {
   .slick-slider .slick-dots {
     margin: 25px 0 0;
+    list-style: none;
   }
 }
 .slick-slider .slick-dots li {
   margin: 0 5px;
+  list-style: none;
 }
 .slick-slider .slick-dots li button {
   display: block;
@@ -1251,6 +1267,10 @@ blockquote.blockquote .author {
 /*----------------------------------------*/
 /*  02. Header CSS
 /*----------------------------------------*/
+.header ul li{
+  list-style: none;
+}
+
 header.header {
   background-color: #ffffff;
   position: relative;
@@ -2782,6 +2802,9 @@ ul.header-info li .inner .content > .text-lev2 {
 }
 
 /*-- Hero Slider --*/
+.slick-dots ul li{
+  list-style: none;
+}
 .hero-slider .slick-arrow {
   position: absolute;
   top: 50%;
@@ -4058,7 +4081,7 @@ ul.header-info li .inner .content > .text-lev2 {
   border-radius: 5px 5px 0 0;
 }
 .single-service-item .service-content {
-  background: linear-gradient(#F3F5FA, #fff);
+  background: #f3f5fa;
   margin: -20px 20px 0;
   border-radius: 5px 5px 0 0;
   padding: 20px;
@@ -9794,6 +9817,9 @@ a.read-more-btn:hover i {
   max-height: 300px;
 }
 
+.card-body{
+  padding: 12px;
+}
 /* Footer Widgets */
 .whatsapp-widget, a.whatsapp-widget:hover {
   position: fixed;
@@ -9818,3 +9844,5 @@ a.read-more-btn:hover i {
   align-items: center;    
   text-decoration: none;
 }
+
+

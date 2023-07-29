@@ -3,6 +3,15 @@
 
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BJ2M221WLF"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BJ2M221WLF');
+    </script>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Products | Jaisri</title>
@@ -39,7 +48,7 @@
                 </div>
                 <div class="col-md-6">
                     <ul class="page-breadcrumb">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li>Products</li>
                     </ul>
                 </div>
@@ -87,7 +96,7 @@
                         </div>
                         <div class="service-content">
                             <h3>Solar Water Heaters</h3>
-                            <a class="more-btn" href="#">View<i class="fa fa-chevron-right"></i></a>
+                            <a class="more-btn" href="solar-water-heaters.php">View<i class="fa fa-chevron-right"></i></a>
                         </div>
                     </div>
                     <!--Single Service Item End-->
@@ -213,7 +222,21 @@
                         </div>
                         <div class="service-content">
                             <h3>Atmospheric Water Generators</h3>
-                            <a class="more-btn" href="#">View<i class="fa fa-chevron-right"></i></a>
+                            <a class="more-btn" href="atmospheric-water-generators.php">View<i class="fa fa-chevron-right"></i></a>
+                        </div>
+                    </div>
+                    <!--Single Service Item End-->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!--Single Service Item Start-->
+                    <div class="single-service-item mb-30">
+                        <div class="service-image">
+                            <img src="assets/images/products/led-lights.webp" alt="">
+                        </div>
+                        <div class="service-content">
+                            <h3>LED Lights</h3>
+                            <a class="more-btn" href="led-lights.php">View<i class="fa fa-chevron-right"></i></a>
                         </div>
                     </div>
                     <!--Single Service Item End-->

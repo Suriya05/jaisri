@@ -3,6 +3,15 @@
 
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BJ2M221WLF"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BJ2M221WLF');
+    </script>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Gallery | Jaisri</title>
@@ -39,7 +48,7 @@
                 </div>
                 <div class="col-md-6">
                     <ul class="page-breadcrumb">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li>Gallery</li>
                     </ul>
                 </div>
@@ -68,11 +77,11 @@
                 <div class="element-item col-lg-3 col-md-6 col-sm-6 cat--c">
                    <div class="project-item mb-30">
                         <div class="daHover project pl-0 pr-0">
-                            <a href="#" class="img"><img src="assets/images/gallery/image1.jpeg" alt=""></a>
+                            <a href="javascript:void(0)" class="img"><img src="assets/images/gallery/image1.jpeg" alt=""></a>
                             <div class="daHoverElem"></div>
                             <div class="content content-center">
-                                <h4 class="title"><a href="#">Project 01</a></h4>
-                                <span class="category"><a href="#">Commercial</a></span>
+                                <h4 class="title"><a href="javascript:void(0)">Project 01</a></h4>
+                                <span class="category"><a href="javascript:void(0)">Commercial</a></span>
                             </div>
                         </div>
                     </div>
@@ -81,11 +90,11 @@
                 <div class="element-item col-lg-3 col-md-6 col-sm-6 cat--r">
                     <div class="project-item mb-30">
                         <div class="daHover project pl-0 pr-0">
-                            <a href="#" class="img"><img src="assets/images/gallery/image2.jpeg" alt=""></a>
+                            <a href="javascript:void(0)" class="img"><img src="assets/images/gallery/image2.jpeg" alt=""></a>
                             <div class="daHoverElem"></div>
                             <div class="content content-center">
-                                <h4 class="title"><a href="#">Project 02</a></h4>
-                                <span class="category"><a href="#">Residential</a></span>
+                                <h4 class="title"><a href="javascript:void(0)">Project 02</a></h4>
+                                <span class="category"><a href="javascript:void(0)">Residential</a></span>
                             </div>
                         </div>
                     </div>
@@ -94,11 +103,11 @@
                 <div class="element-item col-lg-3 col-md-6 col-sm-6 cat--c">
                     <div class="project-item mb-30">
                         <div class="daHover project pl-0 pr-0">
-                            <a href="#" class="img"><img src="assets/images/gallery/image3.jpeg" alt=""></a>
+                            <a href="javascript:void(0)" class="img"><img src="assets/images/gallery/image3.jpeg" alt=""></a>
                             <div class="daHoverElem"></div>
                             <div class="content content-center">
-                                <h4 class="title"><a href="#">Project 03</a></h4>
-                                <span class="category"><a href="#">Commercial</a></span>
+                                <h4 class="title"><a href="javascript:void(0)">Project 03</a></h4>
+                                <span class="category"><a href="javascript:void(0)">Commercial</a></span>
                             </div>
                         </div>
                     </div>
@@ -107,11 +116,11 @@
                 <div class="element-item col-lg-3 col-md-6 col-sm-6 cat--c">
                     <div class="project-item mb-30">
                         <div class="daHover project pl-0 pr-0">
-                            <a href="#" class="img"><img src="assets/images/gallery/image4.jpeg" alt=""></a>
+                            <a href="javascript:void(0)" class="img"><img src="assets/images/gallery/image4.jpeg" alt=""></a>
                             <div class="daHoverElem"></div>
                             <div class="content content-center">
-                                <h4 class="title"><a href="#">Project 04</a></h4>
-                                <span class="category"><a href="#">Commercial</a></span>
+                                <h4 class="title"><a href="javascript:void(0)">Project 04</a></h4>
+                                <span class="category"><a href="javascript:void(0)">Commercial</a></span>
                             </div>
                         </div>
                     </div>
@@ -120,11 +129,11 @@
                 <div class="element-item col-lg-3 col-md-6 col-sm-6 cat--r">
                     <div class="project-item mb-30">
                         <div class="daHover project pl-0 pr-0">
-                            <a href="#" class="img"><img src="assets/images/gallery/image5.jpeg" alt=""></a>
+                            <a href="javascript:void(0)" class="img"><img src="assets/images/gallery/image5.jpeg" alt=""></a>
                             <div class="daHoverElem"></div>
                             <div class="content content-center">
-                                <h4 class="title"><a href="#">Project 05</a></h4>
-                                <span class="category"><a href="#">Residential</a></span>
+                                <h4 class="title"><a href="javascript:void(0)">Project 05</a></h4>
+                                <span class="category"><a href="javascript:void(0)">Residential</a></span>
                             </div>
                         </div>
                     </div>
@@ -133,11 +142,11 @@
                 <div class="element-item col-lg-3 col-md-6 col-sm-6 cat--c">
                     <div class="project-item mb-30">
                         <div class="daHover project pl-0 pr-0">
-                            <a href="#" class="img"><img src="assets/images/gallery/image6.jpeg" alt=""></a>
+                            <a href="javascript:void(0)" class="img"><img src="assets/images/gallery/image6.jpeg" alt=""></a>
                             <div class="daHoverElem"></div>
                             <div class="content content-center">
-                                <h4 class="title"><a href="#">Project 06</a></h4>
-                                <span class="category"><a href="#">Commercial</a></span>
+                                <h4 class="title"><a href="javascript:void(0)">Project 06</a></h4>
+                                <span class="category"><a href="javascript:void(0)">Commercial</a></span>
                             </div>
                         </div>
                     </div>
@@ -146,11 +155,11 @@
                 <div class="element-item col-lg-3 col-md-6 col-sm-6 cat--c">
                     <div class="project-item mb-30">
                         <div class="daHover project pl-0 pr-0">
-                            <a href="#" class="img"><img src="assets/images/gallery/image7.jpeg" alt=""></a>
+                            <a href="javascript:void(0)" class="img"><img src="assets/images/gallery/image7.jpeg" alt=""></a>
                             <div class="daHoverElem"></div>
                             <div class="content content-center">
-                                <h4 class="title"><a href="#">Project 07</a></h4>
-                                <span class="category"><a href="#">Commercial</a></span>
+                                <h4 class="title"><a href="javascript:void(0)">Project 07</a></h4>
+                                <span class="category"><a href="javascript:void(0)">Commercial</a></span>
                             </div>
                         </div>
                     </div>
@@ -159,11 +168,11 @@
                 <div class="element-item col-lg-3 col-md-6 col-sm-6 cat--c">
                     <div class="project-item mb-30">
                         <div class="daHover project pl-0 pr-0">
-                            <a href="#" class="img"><img src="assets/images/gallery/image8.jpeg" alt=""></a>
+                            <a href="javascript:void(0)" class="img"><img src="assets/images/gallery/image8.jpeg" alt=""></a>
                             <div class="daHoverElem"></div>
                             <div class="content content-center">
-                                <h4 class="title"><a href="#">Project 08</a></h4>
-                                <span class="category"><a href="#">Commercial</a></span>
+                                <h4 class="title"><a href="javascript:void(0)">Project 08</a></h4>
+                                <span class="category"><a href="javascript:void(0)">Commercial</a></span>
                             </div>
                         </div>
                     </div>
@@ -172,11 +181,11 @@
                 <div class="element-item col-lg-3 col-md-6 col-sm-6 cat--r">
                     <div class="project-item mb-30">
                         <div class="daHover project pl-0 pr-0">
-                            <a href="#" class="img"><img src="assets/images/gallery/image9.jpeg" alt=""></a>
+                            <a href="javascript:void(0)" class="img"><img src="assets/images/gallery/image9.jpeg" alt=""></a>
                             <div class="daHoverElem"></div>
                             <div class="content content-center">
-                                <h4 class="title"><a href="#">Project 09</a></h4>
-                                <span class="category"><a href="#">Residential</a></span>
+                                <h4 class="title"><a href="javascript:void(0)">Project 09</a></h4>
+                                <span class="category"><a href="javascript:void(0)">Residential</a></span>
                             </div>
                         </div>
                     </div>
@@ -185,11 +194,11 @@
                 <div class="element-item col-lg-3 col-md-6 col-sm-6 cat--r">
                     <div class="project-item mb-30">
                         <div class="daHover project pl-0 pr-0">
-                            <a href="#" class="img"><img src="assets/images/gallery/image10.jpeg" alt=""></a>
+                            <a href="javascript:void(0)" class="img"><img src="assets/images/gallery/image10.jpeg" alt=""></a>
                             <div class="daHoverElem"></div>
                             <div class="content content-center">
-                                <h4 class="title"><a href="#">Project 10</a></h4>
-                                <span class="category"><a href="#">Residential</a></span>
+                                <h4 class="title"><a href="javascript:void(0)">Project 10</a></h4>
+                                <span class="category"><a href="javascript:void(0)">Residential</a></span>
                             </div>
                         </div>
                     </div>

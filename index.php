@@ -3,9 +3,22 @@
 
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BJ2M221WLF"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BJ2M221WLF');
+    </script>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>The Future of Solar Energy Made Simple | Jaisri</title>
+    <title>The Future of Solar Energy Made Simple - Jaisri Energy Private Limited</title>
+    <meta name="description" content="Jairsi.in: The future of solar energy made simple at Jaisri. Buy solar products and services of best brands in Chennai.">
+    <meta name="keywords" content="Jaisri.in, Jaisri, chennai, best solar companies, best solar panels, solar panel price, solar dealers, solar consultants, solar dealers in chennai, solar company, solar products, solar panel, solar panel price, solar water generator, solar heater, solar street lights, solar garden lights, led lights, solar batteries, solar ac">
+    <link rel="canonical" href="https://www.jaisri.in/">
+
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
@@ -43,7 +56,7 @@
     <!--slider section end-->
     
     <!--Work section start-->
-    <div class="work-section section pt-30 pt-lg-30 pt-md-30 pt-sm-30 pt-xs-30 pb-40 pb-lg-20 pb-md-10 pb-sm-0 pb-xs-0">
+    <div class="work-section section py-5">
         <div class="container">
             <div class="row">
                
@@ -411,7 +424,7 @@
                 
                 <!--Brand Slider start-->
                 <div class="brand-slider section">
-                    <div class="brand col"><img src="assets/images/brands/brand-adani-solar.png" alt=""></div>
+                    <div class="brand col"><img src="assets/images/brands/brand-vguard.png" alt=""></div>
                     <div class="brand col"><img src="assets/images/brands/brand-loom-solar.png" alt=""></div>
                 </div>
                 <!--Brand Slider end-->
@@ -492,7 +505,7 @@
                 <div class="col-12 mh-0">
                     <div class="call-to-action-content">
                         <h3>Need high quality solar products?</h3>
-                        <a href="contact.html" class="btn white-btn">Get a Quote</a>
+                        <a href="contact.php" class="btn white-btn">Get a Quote</a>
                     </div>
                 </div>
             </div>

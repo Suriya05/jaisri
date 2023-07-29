@@ -9,7 +9,7 @@
                    <!--Footer Widget start-->
                    <div class="footer-widget col-lg-4  col-md-5 col-12 mb-40">
                        <div class="footer-logo">
-                           <a href="index.html"><img src="assets/images/logo/jaisri-logo.png" alt=""></a>
+                           <a href="/"><img src="assets/images/logo/jaisri-logo.png" alt=""></a>
 
                        </div>
                        <p>The future of solar energy made simple at Jaisri</p>
@@ -20,12 +20,12 @@
                    <div class="footer-widget offset-lg-3 col-lg-2 col-md-3 col-12 mb-40">
                        <h4 class="title"><span class="text">Links</span></h4>
                        <ul class="f-menu-link">
-                           <li><a href="index.php">Home</a></li>
-                           <li><a href="about-us.php">About Us</a></li>
-                           <li><a href="our-services.php">Our Services</a></li>
-                           <li><a href="#">Products</a></li>
-                           <li><a href="gallery.php">Gallery</a></li>
-                           <li><a href="contact.php">Contact</a></li>
+                           <li><a href="/">Home</a></li>
+                           <li><a href="about-us">About Us</a></li>
+                           <li><a href="our-services">Our Services</a></li>
+                           <li><a href="products">Products</a></li>
+                           <li><a href="gallery">Gallery</a></li>
+                           <li><a href="contact">Contact</a></li>
                        </ul>
                    </div>
                    <!--Footer Widget end-->
@@ -41,9 +41,10 @@
                            <li><a href="tel:+919941300255">(+91) 99413 00255</a></li>
                        </ul>
                        <div class="footer-social">
-                           <a href="#" class="facebook" data-bs-toggle="tooltip" data-bs-placement="top" title="Facebook"><i class="fa fa-facebook-square"></i></a>
-                           <a href="#" class="twitter" data-bs-toggle="tooltip" data-bs-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-                           <a href="#" class="instagram" data-bs-toggle="tooltip" data-bs-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-facebook-square"></i></a>
+                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                            <a href="#"><i class="fa fa-youtube"></i></a>
                        </div>
                    </div>
                    <!--Footer Widget end-->    
@@ -57,19 +58,9 @@
        <div class="footer-bottom section bg-black">
            <div class="container">
                <div class="row align-items-center">
-                   <div class="col-md-6">
+                   <div class="col-md-6 ">
                        <div class="copyright">
                            <p>Copyright &copy;2022 <a  href="#">Jaisri</a>. All rights reserved.</p>
-                       </div>
-                   </div>
-                   <div class="col-md-6">
-                       <div class="footer-nav">
-                           <nav>
-                               <ul>
-                                   <li><a href="#">Terms & Conditions</a></li>
-                                   <li><a href="#">Privacy Policy</a></li>
-                               </ul>
-                           </nav>
                        </div>
                    </div>
                </div>
