@@ -35,7 +35,7 @@
                         <!--Logo start-->
                         <div class="col-lg-2 col-md-4 col-6 my-2">
                             <div class="logo">
-                                <a href="/"><img src="assets/images/logo/jaisri-logo.png" alt=""></a>
+                                <a href="/"><img src="assets/images/logo/jaisri-logo.png" alt="Jaisri-energy-private-limited-chennai"></a>
                             </div>
                         </div>
                         <!--Logo end-->
@@ -101,7 +101,7 @@
                     <!--Logo start-->
                     <div class="col-lg-2 col-md-4 col-6 mt-20 mb-20">
                         <div class="logo">
-                            <a href="/"><img src="assets/images/logo/jaisri-logo.png" alt=""></a>
+                            <a href="/"><img src="assets/images/logo/jaisri-logo.png" alt="Jaisri-energy-private-limited-chennai"></a>
                         </div>
                     </div>
                     <!--Logo end-->

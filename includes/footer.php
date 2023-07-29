@@ -21,11 +21,11 @@
                        <h4 class="title"><span class="text">Links</span></h4>
                        <ul class="f-menu-link">
                            <li><a href="/">Home</a></li>
-                           <li><a href="about-us">About Us</a></li>
-                           <li><a href="our-services">Our Services</a></li>
-                           <li><a href="products">Products</a></li>
-                           <li><a href="gallery">Gallery</a></li>
-                           <li><a href="contact">Contact</a></li>
+                           <li><a href="about-us.php">About Us</a></li>
+                           <li><a href="our-services.php">Our Services</a></li>
+                           <li><a href="products.php">Products</a></li>
+                           <li><a href="gallery.php">Gallery</a></li>
+                           <li><a href="contact.php">Contact</a></li>
                        </ul>
                    </div>
                    <!--Footer Widget end-->

@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="en">
 
 
 <head>
@@ -15,7 +15,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Site Feasibility Analysis | Jaisri</title>
-    <meta name="description" content="">
+    <meta name="description" content="Best Site Feasibility Analysis Service in Chennai- Jaisri Energy">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
     <link href="assets/images/logo/favicon.png" type="img/x-icon" rel="shortcut icon">

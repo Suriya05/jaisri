@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="en">
 
 
 <head>
@@ -14,8 +14,8 @@
     </script>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Products | Jaisri</title>
-    <meta name="description" content="">
+    <title>Solar Inverters | Jaisri</title>
+    <meta name="description" content="Best Solar Inverters in Chennai - Jaisri Energy">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
     <link href="assets/images/logo/favicon.png" type="img/x-icon" rel="shortcut icon">
@@ -82,12 +82,12 @@
                                     <div class="row">
                                         <div class="col-12">
                                             <div class="short-describe">
-                                                <h2>Solar Panels</h2>
+                                                <h2>Solar Inverters</h2>
                                             </div>
                                         </div>
                                         <div class="col-md-12">
                                             <div class="product-img">
-                                                <img src="assets/images/product-brands/sma.webp" alt="">
+                                                <img src="assets/images/product-brands/sma.webp" alt="sma-solar-inverters-chennai">
                                             </div>
                                             <div class="contracting-services-content py-4">
                                                 <h3>SMA</h3>
@@ -107,12 +107,12 @@
                                     <div class="row">
                                         <div class="col-12">
                                             <div class="short-describe">
-                                                <h2>Solar Panels</h2>
+                                                <h2>Solar Inverters</h2>
                                             </div>
                                         </div>
                                         <div class="col-md-12">
                                             <div class="product-img">
-                                                <img src="assets/images/product-brands/fronius.webp" alt="">
+                                                <img src="assets/images/product-brands/fronius.webp" alt="fronius-solar-inverters-chennai">
                                             </div>
                                             <div class="contracting-services-content py-4">
                                                 <h3>Fronius</h3>
@@ -130,12 +130,12 @@
                                     <div class="row">
                                         <div class="col-12">
                                             <div class="short-describe">
-                                                <h2>Solar Panels</h2>
+                                                <h2>Solar Inverters</h2>
                                             </div>
                                         </div>
                                         <div class="col-md-12">
                                             <div class="product-img">
-                                                <img src="assets/images/product-brands/evvo.webp" alt="">
+                                                <img src="assets/images/product-brands/evvo.webp" alt="evvo-solar-inverters-chennai">
                                             </div>
                                             <div class="contracting-services-content py-4">
                                                 <h3>EVVO</h3>

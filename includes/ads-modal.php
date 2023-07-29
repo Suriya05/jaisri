@@ -6,7 +6,7 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <a href="contact.php"><img src="./assets/images/modals/jaisri-modal1.png" /></a>
+        <a href="contact.php"><img src="./assets/images/modals/jaisri-modal1.webp" /></a>
       </div>
     </div>
   </div>

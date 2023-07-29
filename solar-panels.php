@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="en">
 
 
 <head>
@@ -14,8 +14,8 @@
     </script>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Products | Jaisri</title>
-    <meta name="description" content="">
+    <title>Solar Panels | Jaisri</title>
+    <meta name="description" content="Best Solar Panels in Chennai - Jaisri Energy">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
     <link href="assets/images/logo/favicon.png" type="img/x-icon" rel="shortcut icon">
@@ -84,7 +84,7 @@
                                         </div>
                                         <div class="col-md-12">
                                             <div class="product-img">
-                                                <img src="assets/images/product-brands/evvo.webp" alt="">
+                                                <img src="assets/images/product-brands/evvo.webp" alt="evvo-solar-panels-chennai">
                                             </div>
                                             <div class="contracting-services-content py-4">
                                                 <h3>EVVO</h3>
@@ -112,7 +112,7 @@
                                         </div>
                                         <div class="col-md-12">
                                             <div class="product-img">
-                                                <img src="assets/images/product-brands/trinasolar.webp" alt="">
+                                                <img src="assets/images/product-brands/trinasolar.webp" alt="trina-solar-panels-chennai">
                                             </div>
                                             <div class="contracting-services-content py-4">
                                                 <h3>Trinasolar</h3>

@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="en">
 
 
 <head>
@@ -15,7 +15,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>About Us | Jaisri</title>
-    <meta name="description" content="">
+    <meta name="description" content="Best Solar Consultants in Chennai - Jaisri Energy">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
     <link href="assets/images/logo/favicon.png" type="img/x-icon" rel="shortcut icon">
@@ -65,7 +65,7 @@
                
                 <div class="col-lg-5">
                     <div class="about-iwrap">
-                        <img src="assets/images/about/about1.webp" alt="">
+                        <img src="assets/images/about/about1.webp" alt="Solar-energy-companies-chennai">
                     </div>
                 </div> 
                
@@ -102,7 +102,7 @@
                
                 <div class="col-lg-5">
                     <div class="about-iwrap">
-                        <img src="assets/images/about/about2.webp" alt="">
+                        <img src="assets/images/about/about2.webp" alt="Solar-energy-dealers-chennai">
                     </div>
                 </div> 
                

@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="en">
 
 
 <head>
@@ -15,7 +15,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Products | Jaisri</title>
-    <meta name="description" content="">
+    <meta name="description" content="Best Solar Products in Chennai - Jaisri Energy">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
     <link href="assets/images/logo/favicon.png" type="img/x-icon" rel="shortcut icon">
@@ -78,7 +78,7 @@
                     <!--Single Service Item Start-->
                     <div class="single-service-item mb-30">
                         <div class="service-image">
-                            <img src="assets/images/products/solar-panel.webp" alt="">
+                            <img src="assets/images/products/solar-panel.webp" alt="Solar Panels - High-quality solar panels for efficient energy generation">
                         </div>
                         <div class="service-content">
                             <h3>Solar Panels</h3>
@@ -92,7 +92,7 @@
                     <!--Single Service Item Start-->
                     <div class="single-service-item mb-30">
                         <div class="service-image">
-                            <img src="assets/images/products/solar-water-heater.webp" alt="">
+                            <img src="assets/images/products/solar-water-heater.webp" alt="Solar Water Heaters - Eco-friendly solar water heaters for sustainable hot water">
                         </div>
                         <div class="service-content">
                             <h3>Solar Water Heaters</h3>
@@ -106,7 +106,7 @@
                     <!--Single Service Item Start-->
                     <div class="single-service-item mb-30">
                         <div class="service-image">
-                            <img src="assets/images/products/solar-water-pumps.webp" alt="">
+                            <img src="assets/images/products/solar-water-pumps.webp" alt="Solar Water Pumps - Reliable solar water pumps for efficient water supply">
                         </div>
                         <div class="service-content">
                             <h3>Solar Water Pumps</h3>
@@ -120,7 +120,7 @@
                     <!--Single Service Item Start-->
                     <div class="single-service-item mb-30">
                         <div class="service-image">
-                            <img src="assets/images/products/solar-ac.webp" alt="">
+                            <img src="assets/images/products/solar-ac.webp" alt="Solar AC - Solar-powered air conditioning for eco-conscious cooling">
                         </div>
                         <div class="service-content">
                             <h3>Solar AC</h3>
@@ -134,7 +134,7 @@
                     <!--Single Service Item Start-->
                     <div class="single-service-item mb-30">
                         <div class="service-image">
-                            <img src="assets/images/products/air-source-heat-pump-water-heater.webp" alt="">
+                            <img src="assets/images/products/air-source-heat-pump-water-heater.webp" alt="Air Source Heat Pump Water Heater - Energy-efficient heat pump water heaters">
                         </div>
                         <div class="service-content">
                             <h3>Air Source Heat Pump Water Heater</h3>
@@ -148,7 +148,7 @@
                     <!--Single Service Item Start-->
                     <div class="single-service-item mb-30">
                         <div class="service-image">
-                            <img src="assets/images/products/solar-street-lights.webp" alt="">
+                            <img src="assets/images/products/solar-street-lights.webp" alt="Solar Street Lights - Environmentally friendly solar street lights for street illumination">
                         </div>
                         <div class="service-content">
                             <h3>Solar Street Lights</h3>
@@ -162,7 +162,7 @@
                     <!--Single Service Item Start-->
                     <div class="single-service-item mb-30">
                         <div class="service-image">
-                            <img src="assets/images/products/solar-wall-lights.webp" alt="">
+                            <img src="assets/images/products/solar-wall-lights.webp" alt="Solar Wall Lights - Solar-powered wall lights to enhance your space">
                         </div>
                         <div class="service-content">
                             <h3>Solar Wall Lights</h3>
@@ -176,7 +176,7 @@
                     <!--Single Service Item Start-->
                     <div class="single-service-item mb-30">
                         <div class="service-image">
-                            <img src="assets/images/products/solar-garden-lights.webp" alt="">
+                            <img src="assets/images/products/solar-garden-lights.webp" alt="Solar Garden Lights - Charming solar garden lights for a delightful ambiance">
                         </div>
                         <div class="service-content">
                             <h3>Solar Garden Lights</h3>
@@ -190,7 +190,7 @@
                     <!--Single Service Item Start-->
                     <div class="single-service-item mb-30">
                         <div class="service-image">
-                            <img src="assets/images/products/solar-inverters.webp" alt="">
+                            <img src="assets/images/products/solar-inverters.webp" alt="Solar Inverters - Reliable solar inverters for efficient power conversion">
                         </div>
                         <div class="service-content">
                             <h3>Solar Inverters</h3>
@@ -204,7 +204,7 @@
                     <!--Single Service Item Start-->
                     <div class="single-service-item mb-30">
                         <div class="service-image">
-                            <img src="assets/images/products/solar-batteries.webp" alt="">
+                            <img src="assets/images/products/solar-batteries.webp" alt="Batteries - High-performance batteries to power up your solar system">
                         </div>
                         <div class="service-content">
                             <h3>Batteries</h3>
@@ -218,7 +218,7 @@
                     <!--Single Service Item Start-->
                     <div class="single-service-item mb-30">
                         <div class="service-image">
-                            <img src="assets/images/products/atmospheric-water-generators.webp" alt="">
+                            <img src="assets/images/products/atmospheric-water-generators.webp" alt="Atmospheric Water Generators - Generate clean water from the air with atmospheric water generators">
                         </div>
                         <div class="service-content">
                             <h3>Atmospheric Water Generators</h3>
@@ -232,7 +232,7 @@
                     <!--Single Service Item Start-->
                     <div class="single-service-item mb-30">
                         <div class="service-image">
-                            <img src="assets/images/products/led-lights.webp" alt="">
+                            <img src="assets/images/products/led-lights.webp" alt="LED Lights - Energy-efficient LED lights for sustainable lighting solutions">
                         </div>
                         <div class="service-content">
                             <h3>LED Lights</h3>

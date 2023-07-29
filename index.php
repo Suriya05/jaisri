@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="en">
 
 
 <head>
@@ -16,10 +16,9 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>The Future of Solar Energy Made Simple - Jaisri Energy Private Limited</title>
     <meta name="description" content="Jairsi.in: The future of solar energy made simple at Jaisri. Buy solar products and services of best brands in Chennai.">
-    <meta name="keywords" content="Jaisri.in, Jaisri, chennai, best solar companies, best solar panels, solar panel price, solar dealers, solar consultants, solar dealers in chennai, solar company, solar products, solar panel, solar panel price, solar water generator, solar heater, solar street lights, solar garden lights, led lights, solar batteries, solar ac">
+    <meta name="keywords" content="Jaisri.in, Jaisri, jaisri energy, jaisri energy private limited, chennai, best solar companies, best solar panels, solar panel price, solar dealers, solar consultants, solar dealers in chennai, solar company, solar products, solar panel, solar panel price, solar water generator, solar heater, solar street lights, solar garden lights, led lights, solar batteries, solar ac">
     <link rel="canonical" href="https://www.jaisri.in/">
 
-    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
     <link href="assets/images/logo/favicon.png" type="img/x-icon" rel="shortcut icon">
@@ -46,7 +45,7 @@
     <div id="carousel-slider" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="assets/images/slider/slider1.jpg" alt="First slide">
+            <img class="d-block w-100" src="assets/images/slider/slider1.jpg" alt="Top-rated solar consultants in Chennai - Jaisri Energy, providing expert energy solutions and renewable advice">
             <div class="carousel-caption">
                 <h2>Connect to the biggest source of solar energy.</h2>
             </div>
@@ -90,7 +89,7 @@
                         <!--Single Service Item Start-->
                         <div class="single-service-item mb-30">
                             <div class="service-image">
-                                <img src="assets/images/products/solar-panel.webp" alt="">
+                                <img src="assets/images/products/solar-panel.webp" alt="Solar Panels - High-quality solar panels for efficient energy generation">
                             </div>
                             <div class="service-content">
                                 <h3>Solar Panels</h3>
@@ -104,7 +103,7 @@
                         <!--Single Service Item Start-->
                         <div class="single-service-item mb-30">
                             <div class="service-image">
-                                <img src="assets/images/products/solar-inverters.webp" alt="">
+                                <img src="assets/images/products/solar-inverters.webp" alt="Solar Inverters - Reliable solar inverters for efficient power conversion">
                             </div>
                             <div class="service-content">
                                 <h3>Solar Inverters</h3>
@@ -270,61 +269,61 @@
 
                 <div class="project-item">
                     <div class="project">
-                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image1.jpeg" alt=""></a>
+                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image1.jpeg" alt="Best solar projects in Chennai - Jaisri Energy"></a>
                     </div>
                 </div>
 
                 <div class="project-item">
                     <div class="project">
-                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image2.jpeg" alt=""></a>
+                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image2.jpeg" alt="Best solar projects in Chennai - Jaisri Energy"></a>
                     </div>
                 </div>
 
                 <div class="project-item">
                     <div class="project">
-                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image3.jpeg" alt=""></a>
+                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image3.jpeg" alt="Best solar projects in Chennai - Jaisri Energy"></a>
                     </div>
                 </div>
 
                 <div class="project-item">
                     <div class="project">
-                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image4.jpeg" alt=""></a>
+                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image4.jpeg" alt="Best solar projects in Chennai - Jaisri Energy"></a>
                     </div>
                 </div>
 
                 <div class="project-item">
                     <div class="project">
-                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image5.jpeg" alt=""></a>
+                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image5.jpeg" alt="Best solar projects in Chennai - Jaisri Energy"></a>
                     </div>
                 </div>
 
                 <div class="project-item">
                     <div class="project">
-                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image6.jpeg" alt=""></a>
+                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image6.jpeg" alt="Best solar projects in Chennai - Jaisri Energy"></a>
                     </div>
                 </div>
 
                 <div class="project-item">
                     <div class="project">
-                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image7.jpeg" alt=""></a>
+                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image7.jpeg" alt="Best solar projects in Chennai - Jaisri Energy"></a>
                     </div>
                 </div>
 
                 <div class="project-item">
                     <div class="project">
-                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image8.jpeg" alt=""></a>
+                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image8.jpeg" alt="Best solar projects in Chennai - Jaisri Energy"></a>
                     </div>
                 </div>
 
                 <div class="project-item">
                     <div class="project">
-                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image9.jpeg" alt=""></a>
+                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image9.jpeg" alt="Best solar projects in Chennai - Jaisri Energy"></a>
                     </div>
                 </div>
 
                 <div class="project-item">
                     <div class="project">
-                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image10.jpeg" alt=""></a>
+                        <a href="javascript:void(0)" class="image"><img src="assets/images/gallery/image10.jpeg" alt="Best solar projects in Chennai - Jaisri Energy"></a>
                     </div>
                 </div>
 
@@ -424,8 +423,8 @@
                 
                 <!--Brand Slider start-->
                 <div class="brand-slider section">
-                    <div class="brand col"><img src="assets/images/brands/brand-vguard.png" alt=""></div>
-                    <div class="brand col"><img src="assets/images/brands/brand-loom-solar.png" alt=""></div>
+                    <div class="brand col"><img src="assets/images/brands/brand-vguard.png" alt="vguard-dealer-chennai"></div>
+                    <div class="brand col"><img src="assets/images/brands/brand-loom-solar.png" alt="loom-solar-dealer-chennai"></div>
                 </div>
                 <!--Brand Slider end-->
 
@@ -437,40 +436,40 @@
 
                 <div class="brand-logos slider py-2">
                         <div class="slide">
-                            <img src="assets/images/brands/brand-waaree.png" alt="">
+                            <img src="assets/images/brands/brand-waaree.png" alt="waaree-dealer-chennai">
                         </div>
                         <div class="slide">
-                            <img src="assets/images/brands/brand-trina.png" alt="">
+                            <img src="assets/images/brands/brand-trina.png" alt="trina-dealer-chennai">
                         </div>
                         <div class="slide">
-                            <img src="assets/images/brands/brand-goldi-green.png" alt="">
+                            <img src="assets/images/brands/brand-goldi-green.png" alt="goldi-green-dealer-chennai">
                         </div>
                         <div class="slide">
-                            <img src="assets/images/brands/brand-abb-logo.png" alt="">
+                            <img src="assets/images/brands/brand-abb-logo.png" alt="abb-dealer-chennai">
                         </div>
                         <div class="slide">
-                            <img src="assets/images/brands/brand-polycab.png" alt="">
+                            <img src="assets/images/brands/brand-polycab.png" alt="polycab-dealer-chennai">
                         </div>
                         <div class="slide">
-                            <img src="assets/images/brands/brand-luminous.png" alt="">
+                            <img src="assets/images/brands/brand-luminous.png" alt="luminous-dealer-chennai">
                         </div>
                         <div class="slide">
-                            <img src="assets/images/brands/brand-fronius.png" alt="">
+                            <img src="assets/images/brands/brand-fronius.png" alt="fronius-dealer-chennai">
                         </div>
                         <div class="slide">
-                            <img src="assets/images/brands/brand-supreme-products.png" alt="">
+                            <img src="assets/images/brands/brand-supreme-products.png" alt="supreme-dealer-chennai">
                         </div>
                         <div class="slide">
-                            <img src="assets/images/brands/brand-vikram-solar.png" alt="">
+                            <img src="assets/images/brands/brand-vikram-solar.png" alt="vikram-solar-dealer-chennai">
                         </div>
                         <div class="slide">
-                            <img src="assets/images/brands/brand-okaya.png" alt="">
+                            <img src="assets/images/brands/brand-okaya.png" alt="okaya-dealer-chennai">
                         </div>
                         <div class="slide">
-                            <img src="assets/images/brands/brand-exide.png" alt="">
+                            <img src="assets/images/brands/brand-exide.png" alt="exide-dealer-chennai">
                         </div>
                         <div class="slide">
-                            <img src="assets/images/brands/brand-evvo.png" alt="">
+                            <img src="assets/images/brands/brand-evvo.png" alt="evvo-dealer-chennai">
                         </div>
                 </div>
                 <!--Brand Slider end-->
@@ -525,7 +524,7 @@
             </div>
 
             <div class="startup-img">
-                <img src="assets/images/about/startup-certificate.png" alt="">
+                <img src="assets/images/about/startup-certificate.webp" alt="best-solar-startup-chennai">
             </div>
         </div>
     </div>
